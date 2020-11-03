@@ -193,26 +193,27 @@ body {
 /* line 95, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
 .footer {
   max-width: 1300px;
-  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
   color: #fff;
+  font-size: 0.7em;
 }
 
-/* line 100, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
+/* line 101, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
 .footer a:visited {
   color: #995EC7;
   text-decoration: none;
   font-weight: bold;
 }
 
-/* line 105, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
+/* line 106, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
 .footer a:link {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
 
-/* line 110, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
+/* line 111, ../MEGA/projetos-web/huddle-landing-page/css/scss/_geral.scss */
 .footer a:hover {
   transition: .1s;
   text-decoration: underline;
